@@ -1,1 +1,9 @@
 /.idea/.idea.TestLightGames/.idea/
+/Library/
+/Logs/
+/Packages/
+/ProjectSettings/
+/obj/Debug/
+/Assembly-CSharp.csproj
+/Assembly-CSharp-firstpass.csproj
+/TestLightGames.sln
